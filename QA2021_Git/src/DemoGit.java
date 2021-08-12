@@ -7,5 +7,6 @@ public class DemoGit {
 		
 		System.out.println("First line");
 		System.out.println("Hello");
+		System.out.println("This is the second line");
 	}
 }
